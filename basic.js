@@ -14,7 +14,7 @@ function rollingdice(rolls){
     return count
 }
 
-y = rollingdice(100)
+y = rollingdice(1000)
 
 
 
