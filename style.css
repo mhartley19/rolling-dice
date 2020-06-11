@@ -1,0 +1,18 @@
+/* body{
+    display: flex
+} */
+#dicegraph{
+        display: flex;
+        width: 200px;
+        flex-direction: column;
+       justify-content: space-around;
+        
+}
+
+.results{
+    background-color: green;
+    flex-direction: column;
+    
+    
+    
+}
